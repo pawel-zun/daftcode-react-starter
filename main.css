@@ -7,6 +7,12 @@
   .welcome .username {
     font-weight: normal; }
 
+.Counter {
+  position: relative;
+  font-size: 5em;
+  text-align: center;
+  z-index: 1000; }
+
 html {
   font-size: 10px; }
 
